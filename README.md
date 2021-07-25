@@ -4,7 +4,7 @@
 Frontend와 Backend 각각의 자세한 구현 내용은 아래에서 확인하실 수 있습니다. <br> Business Rule, 기술적인 문제에 대한 해결 방법은 WIKI에서 확인할 수 있습니다.<br>
 
 - [Frontend](https://github.com/Yeonwoo-Kim/Webtoon_iverse)<br>
-- [Backend](https://github.com/Yeonwoo-Kim/Webtoon_iverse)
+- [Backend](https://github.com/Yeonwoo-Kim/Webtooni_server)
 
 
 
